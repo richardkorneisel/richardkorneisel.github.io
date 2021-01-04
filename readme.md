@@ -10,8 +10,8 @@ Create a personal portfolio page and deploy it to [GitHub pages](https://pages.g
 - The website should be responsive, so it will look good on both desktop and mobile. 
 - Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
 - Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
-- Javascript isn't required, but you get bonus points for giving it a shot!
-- Your page must be deployed to [GitHub pages](https://pages.github.com/). This is a free hosting service provided by Github. 
+- JavaScript isn't required, but you get bonus points for giving it a shot!
+- Your page must be deployed to [GitHub pages](https://pages.github.com/). This is a free hosting service provided by GitHub. 
 
 > You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://pages.github.com/). If you run into any issues, just ask the instructor on lab support.
 
