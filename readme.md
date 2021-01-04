@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Create a personal portfolio page and deploy it to [Github pages](https://pages.github.com/). Please refer to the documentation on GitHub for detailed instructions.
+Create a personal portfolio page and deploy it to [GitHub pages](https://pages.github.com/). Please refer to the documentation on GitHub for detailed instructions.
 
 ## Requirements
 
