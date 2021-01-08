@@ -16,6 +16,9 @@ h2 {
 p {
     font-size: 20px;
 }
+a:hover {
+    color:orange
+}
 img {
   border: 10px solid black;
   border-radius: 50px;
