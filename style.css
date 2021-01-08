@@ -32,6 +32,9 @@ img {
     color: #888;
     transition: color 0.5s;
 }
+.social-media-list li a:hover {
+    color: black;
+}
 .logo-facebook:hover {
     color: #3b5998
 }
