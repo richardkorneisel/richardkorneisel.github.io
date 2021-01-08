@@ -71,3 +71,4 @@ If you want to explore Sass more, look into:
 
 - Use a [color function](http://sass-lang.com/documentation/Sass/Script/Functions.html): `darken`, `lighten`, etc.
 - Use a function to create 3d effects, like https://jesse.sh/makes-3d-buttons-with-sass/
+# richardkorneisel.github.io
