@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+    }
+body {
+    text-align: left;
+    background: yellow;
+    font-family:aharoni;
+    }
+h1 {
+    font-size: 100px;
+    margin: 40px 0 -30px 0;
+    }
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+img {
+  border: 10px solid black;
+  border-radius: 50px;
+     }
