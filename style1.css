@@ -7,13 +7,13 @@ footer{grid-area: footer;}
 .container {
     display: grid;
     grid-template-areas: 
-    "header main main main"
-    "aside main main main"
-    "aside main main main"
-    "aside main main main"
-    "aside main main main"
-    "nav nav nav nav"
-    "footer footer footer footer";
+    "header header header header header"
+    "aside main main main main"
+    "aside main main main main"
+    "aside main main main main"
+    "aside main main main main"
+    "nav nav nav nav nav"
+    "footer footer footer footer footer";
 }
 
 header {
@@ -29,6 +29,10 @@ img {
     margin: 40px 0 0 0 ;
     border: 2px solid #FFE5B4;
     max-width: 100%;
+    float: left;
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
     }
 h1 {
     font-size: 30px;
@@ -53,6 +57,9 @@ a {
 }
 nav {
     text-align: center;
+}
+aside {
+    padding: 0 50px 0 0;
 }
 footer {
     text-align: center;
